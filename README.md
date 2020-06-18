@@ -14,6 +14,7 @@ We implemented weight stationary architecture and output stationary architecture
 ![Vivado](https://user-images.githubusercontent.com/49740083/85006258-d977ba80-b194-11ea-8b44-4e98a9e7843e.JPG "IP Core of ws architecture and black design in Vivado")
 
 Vivado converts the IP Core to bitstream. 
+![powerre](https://user-images.githubusercontent.com/49740083/85008108-763b5780-b197-11ea-8e89-2231cc0a8b54.JPG "power report")
 Power report of Vivado shows the power estimation according to the logic implented by us.
 ### Jupyter notebook
 We overlaied the bitstream to the PyNQ-Z2 using python module and measured the processing time of 1-D convolution operation which is accelerated by ws- and os- architecture NPU.

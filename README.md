@@ -18,3 +18,7 @@ Vivado converts the IP Core to bitstream.
 Power report of Vivado shows the power estimation according to the logic implented by us.
 ### Jupyter notebook
 We overlaied the bitstream to the PyNQ-Z2 using python module and measured the processing time of 1-D convolution operation which is accelerated by ws- and os- architecture NPU.
+## Contributors
+(Yonsei University, Seoul, South Korea)
+(Yonsei University, Seoul, South Korea)
+Kim, Hyeonkyu(Yonsei University, Seoul, South Korea)

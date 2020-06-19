@@ -1,25 +1,13 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 from pynq import Overlay
 import pickle, struct, time, math
 import numpy as np
 import matplotlib.pyplot as plt
 
 
-# In[2]:
-
-
 convAddress = dict()
 convAddress["ifMap"] = 0x100
 convAddress["ofMap"] = 0x200
 convAddress["_filter"] = 0x280
-
-
-# In[3]:
 
 
 class CNN:
@@ -44,10 +32,6 @@ class CNN:
 
     def convRead(self, M, E):
         pass
-
-
-# In[4]:
-
 
 def conv(self, ifMap, _filter, H, R):
     E = int((H - R) / 1) + 1
@@ -83,13 +67,7 @@ CNN.convWrite = convWrite
 CNN.convRead = convRead
 
 
-# In[6]:
-
-
 model = CNN()
-
-
-# In[7]:
 
 
 t = 0
@@ -101,14 +79,7 @@ for i in range(1000):
     toc = time.time()
     t += (toc - tic)
 
-
-# In[8]:
-
-
 print(t/1000)
-
-
-# In[9]:
 
 
 print(C)

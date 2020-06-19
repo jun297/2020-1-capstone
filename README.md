@@ -23,6 +23,6 @@ Junhyeok Kim (Yonsei University)<br>
 Yoonsuk Jung (Yonsei University)<br>
 Hyeonkyu Kim (Yonsei University)<br>
 <br>
-Jounghoo Lee (TA for Capstone Design, High Performance Computing Platform Lab (https://hpcp.yonsei.ac.kr/), Yonsei Univeristy) <br>
+Jounghoo Lee (TA, High Performance Computing Platform Lab (https://hpcp.yonsei.ac.kr/), Yonsei Univeristy) <br>
 Prof. Youngsok Kim (High Performance Computing Platform Lab (https://hpcp.yonsei.ac.kr/), Yonsei Univeristy) <br>
 

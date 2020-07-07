@@ -20,7 +20,7 @@ Power report of Vivado shows the power estimation according to the logic implent
 We overlaied the bitstream to the PyNQ-Z2 using python module and measured the processing time of 1-D convolution operation which is accelerated by ws- and os- architecture NPU.
 ## Contributors
 Junhyeok Kim (Yonsei University)<br>
-Yoonsuk Jung (Yonsei University)<br>
+Yoonsuk Chung (Yonsei University)<br>
 Hyeonkyu Kim (Yonsei University)<br>
 <br>
 Jounghoo Lee (TA, High Performance Computing Platform Lab (https://hpcp.yonsei.ac.kr/), Yonsei Univeristy) <br>
